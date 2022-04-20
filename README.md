@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mseassa
+- 👋 Hi, I’m Mohammed Eassa
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on react projects
